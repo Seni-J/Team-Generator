@@ -1,0 +1,10 @@
+C:\Users\Senistan.JEGARAJASIN\Desktop\Github Projects\TeamGenerator\TeamGenerator\TeamGenerator\bin\Debug\TeamGenerator.exe.config
+C:\Users\Senistan.JEGARAJASIN\Desktop\Github Projects\TeamGenerator\TeamGenerator\TeamGenerator\bin\Debug\TeamGenerator.exe
+C:\Users\Senistan.JEGARAJASIN\Desktop\Github Projects\TeamGenerator\TeamGenerator\TeamGenerator\bin\Debug\TeamGenerator.pdb
+C:\Users\Senistan.JEGARAJASIN\Desktop\Github Projects\TeamGenerator\TeamGenerator\TeamGenerator\obj\Debug\TeamGenerator.csprojAssemblyReference.cache
+C:\Users\Senistan.JEGARAJASIN\Desktop\Github Projects\TeamGenerator\TeamGenerator\TeamGenerator\obj\Debug\TeamGenerator.TeamGenerator.resources
+C:\Users\Senistan.JEGARAJASIN\Desktop\Github Projects\TeamGenerator\TeamGenerator\TeamGenerator\obj\Debug\TeamGenerator.Properties.Resources.resources
+C:\Users\Senistan.JEGARAJASIN\Desktop\Github Projects\TeamGenerator\TeamGenerator\TeamGenerator\obj\Debug\TeamGenerator.csproj.GenerateResource.cache
+C:\Users\Senistan.JEGARAJASIN\Desktop\Github Projects\TeamGenerator\TeamGenerator\TeamGenerator\obj\Debug\TeamGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Senistan.JEGARAJASIN\Desktop\Github Projects\TeamGenerator\TeamGenerator\TeamGenerator\obj\Debug\TeamGenerator.exe
+C:\Users\Senistan.JEGARAJASIN\Desktop\Github Projects\TeamGenerator\TeamGenerator\TeamGenerator\obj\Debug\TeamGenerator.pdb
